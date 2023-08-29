@@ -1,0 +1,24 @@
+.content{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.content-header{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.content-table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+}
+.content-cel, .content-item{
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
